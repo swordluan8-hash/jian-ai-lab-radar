@@ -1,0 +1,38 @@
+name: Project submission
+description: Submit a public GitHub project for verification and possible inclusion.
+title: "[Project] "
+labels: ["project-submission"]
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: GitHub repository
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: What problem does it solve?
+      description: Explain the practical value in plain language.
+    validations:
+      required: true
+  - type: textarea
+    id: start
+    attributes:
+      label: Fastest verified way to start
+      description: Link to the official installation instructions when possible.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original X post or discovery source
+      placeholder: https://x.com/...
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: The repository is public and the information above is accurate.
+          required: true
