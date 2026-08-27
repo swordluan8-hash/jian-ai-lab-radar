@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Jian AI Lab Radar project",
+  "type": "object",
+  "required": ["slug", "name", "repo", "github_url", "website_url", "category", "summary_zh", "source_url", "signal", "stars_snapshot", "language", "license", "checked_at"],
+  "properties": {
+    "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "name": {"type": "string", "minLength": 1},
+    "repo": {"type": "string", "pattern": "^[^/]+/[^/]+$"},
+    "github_url": {"type": "string", "pattern": "^https://github\\.com/"},
+    "website_url": {"type": "string", "pattern": "^https://jianailab\\.com/projects/"},
+    "category": {"type": "string", "minLength": 1},
+    "summary_zh": {"type": "string", "minLength": 12},
+    "source_url": {"type": "string", "pattern": "^https://"},
+    "signal": {"type": "string", "minLength": 1},
+    "stars_snapshot": {"type": "integer", "minimum": 0},
+    "language": {"type": "string", "minLength": 1},
+    "license": {"type": "string", "minLength": 1},
+    "checked_at": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"}
+  },
+  "additionalProperties": false
+}
