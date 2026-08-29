@@ -6,23 +6,22 @@
 
 [剑的 AI 实验室](https://jianailab.com) · [项目库](https://jianailab.com/library) · [竞技场](https://jianailab.com/community) · [English](./README_EN.md)
 
-## 今日发现 · 2026-08-28
+## 今日发现 · 2026-08-29
 
 | 项目 | 一句话看懂 | 今日信号 |
 |---|---|---|
-| [God's Eye View](https://jianailab.com/projects/gods-eye-view) | 把公开空间信号放进可交互的写实 3D 地球。 | GitHub Trending Today |
-| [Nitter](https://jianailab.com/projects/nitter) | 轻量 X 替代前端；仓库已归档并暂停。 | Trending · 风险记录 |
-| [Awesome GPT Image 2](https://jianailab.com/projects/awesome-gpt-image-2) | 530+ 案例、20+ 模板与可安装风格 Skill。 | GitHub Trending Today |
-| [Go Modern Guidelines](https://jianailab.com/projects/go-modern-guidelines) | 让编码 Agent 按 go.mod 采用兼容的现代 Go 写法。 | GitHub Trending Today |
-| [Claude Plugins Official](https://jianailab.com/projects/claude-plugins-official) | Anthropic 官方 Claude Code 插件目录。 | GitHub Trending Today |
-| [Ponytail](https://jianailab.com/projects/ponytail) | 约束编码 Agent 少写代码、少造抽象。 | GitHub Trending Today |
-| [AI Engineering from Scratch](https://jianailab.com/projects/ai-engineering-from-scratch) | 20 阶段、511 节构建优先 AI 工程课程。 | GitHub Trending Today |
-| [Garden Skills](https://jianailab.com/projects/garden-skills) | 面向多种编码 Agent 的现成 Skills 合集。 | GitHub Trending Today |
-| [Claude-Mem](https://jianailab.com/projects/claude-mem) | 自动保存和召回 Agent 的跨会话上下文。 | GitHub Trending Today |
-| [GoogleTest](https://jianailab.com/projects/googletest) | 成熟的 C++ 测试与 Mock 基础设施。 | GitHub Trending Today |
-| [Best Skills](https://jianailab.com/projects/best-skills) | 用跨生态安装量、增长和讨论生成每日 Skill 排行。 | 社区推荐 · 每日榜单 |
+| [GitNexus](https://jianailab.com/projects/gitnexus) | 把整座代码库变成浏览器里的关系图，再用 Graph RAG Agent 追踪调用链。 | GitHub Trending Today #5 |
+| [Cursor Plugins](https://jianailab.com/projects/cursor-plugins) | 让 Cursor 直接调用邮件、网盘、日历、GitHub、浏览器和审查等官方插件。 | GitHub Trending Today #8 |
+| [OpenLogi](https://jianailab.com/projects/openlogi) | 本地配置罗技设备的按键、DPI 和 SmartShift，不要账号，也不要遥测。 | X discovery |
+| [OpenHuman](https://jianailab.com/projects/openhuman) | 把个人记忆、深度研究和多 Agent 工作流装进一个本地优先的 AI 工作台。 | X discovery |
+| [FreeLLMAPI](https://jianailab.com/projects/freellmapi) | 把多家免费模型层接到一个 OpenAI 兼容接口，并自动回退。 | GitHub Trending Today #13 |
+| [Music Assistant](https://jianailab.com/projects/music-assistant) | 把流媒体、本地曲库和多品牌联网音箱放进同一套播放系统。 | X discovery |
+| [Awesome Agent Skills](https://jianailab.com/projects/awesome-agent-skills) | 从一千多个跨客户端 Skills 里按用途找现成能力。 | GitHub Trending This week |
+| [agents-radar](https://jianailab.com/projects/agents-radar) | 每天汇总十类 AI 信号，生成双语日报、网页、RSS 和 MCP。 | X discovery |
+| [OpenBot](https://jianailab.com/projects/openbot) | 给每个 AI 同事独立浏览器、文件和工具，并记录每一步动作。 | X discovery |
+| [Screenshot to Code](https://jianailab.com/projects/screenshot-to-code) | 上传截图、网页或录屏，生成可继续编辑的 HTML、React 或 Vue。 | GitHub Trending Today #7 |
 
-完整核验资料、作者账号和实验室公开联系见 [2026-08-28 日报](./daily/2026-08-28.md)。结构化数据见 [data/projects.json](./data/projects.json)。
+今天唯一完整实验是 [Scientific Agent Skills](https://jianailab.com/projects/scientific-agent-skills)，完整核验资料、实验结果与限制见 [2026-08-29 日报](./daily/2026-08-29.md)。结构化数据见 [data/projects.json](./data/projects.json)。
 
 ## 三源雷达
 
