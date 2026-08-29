@@ -4,6 +4,10 @@ A daily, verified radar for open-source projects discovered through GitHub Trend
 
 [Jian AI Lab](https://jianailab.com) · [Project Library](https://jianailab.com/library) · [Arena](https://jianailab.com/community) · [中文](README.md)
 
+## Latest edition · 2026-08-29
+
+The latest edition verifies ten new repositories and records a complete experiment with [Scientific Agent Skills](daily/2026-08-29.md). The report preserves the measured result, failed run, repair, artifacts, and practical limits.
+
 ## What makes this different
 
 - Trending is treated as a temporary attention signal, not a quality certificate.
