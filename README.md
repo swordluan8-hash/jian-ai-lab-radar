@@ -6,22 +6,22 @@
 
 [剑的 AI 实验室](https://jianailab.com) · [项目库](https://jianailab.com/library) · [竞技场](https://jianailab.com/community) · [English](README_EN.md)
 
-## 今日发现 · 2026-08-29
+## 今日发现 · 2026-08-30
 
 | 项目 | 一句话看懂 | 今日信号 |
 | --- | --- | --- |
-| [CDM](https://github.com/KAIST-Visual-AI-Group/CDM) | 让离散扩散模型在采样时更快地朝着高奖励结果走。 | X Radar Top #1 |
-| [Anthropic Skills](https://github.com/anthropics/skills) | 把写作、设计、编程和文档工作变成可安装的 Agent 能力。 | X Radar Top #3 · Best Skills 安装量 |
-| [Superpowers](https://github.com/obra/superpowers) | 把编程 Agent 的需求、计划、实现和验证串成可重复工作流。 | X Radar Top #3 |
-| [GLM-5.3-Flash From Scratch](https://github.com/vukrosic/glm-5.3-flash-from-scratch) | 用 2,573 万参数从零训练一个可运行的教学模型。 | X Radar Top #4 |
-| [pi-subagents](https://github.com/tintinweb/pi-subagents) | 给 Pi 装上可并行、可暂停接管、可恢复的子 Agent。 | X Radar Top #5 |
-| [video-use](https://github.com/browser-use/video-use) | 把一句剪辑要求交给编程 Agent，直接从素材生成视频。 | X Radar Top #6 |
-| [AI-Trader](https://github.com/HKUDS/AI-Trader) | 让 AI Agent 从市场研究走到交易执行。今天唯一完整实验候选，尚未启动。 | X Radar Top #7 |
-| [OpenClaw](https://github.com/openclaw/openclaw) | 把 AI 助手从聊天框搬到操作系统和日常工作里。 | X Radar Top #8 |
-| [早耳 hayamimi](https://github.com/oboroge0/hayamimi) | 不用 GPU 和云服务，也能把实时多语种语音变成字幕。 | X Radar Top #14 |
-| [AI Resume Analyzer](https://github.com/adrianhajdin/ai-resume-analyzer) | 把简历对着职位要求打分，并给出修改方向。 | X Radar Top #15 |
+| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) | 把模型、工具、会话、权限和沙箱组织成插件式 Agent 框架。 | X @Smartpigai 原帖 · 官方维护者 DeepSeek AI |
+| [nanochat](https://github.com/karpathy/nanochat) | 用依赖精简的完整流水线训练和运行 ChatGPT 克隆。 | X @karpathy 原帖 · 官方维护者 Andrej Karpathy |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | 用状态图编排可恢复、有记忆的 Agent 应用。 | X @Smartpigai 原帖 · 官方维护者 LangChain AI |
+| [Baoyu Skills](https://github.com/JimLiu/baoyu-skills) | 把翻译、文章、图片和幻灯片变成可安装技能。 | X @dotey 原帖 · 官方维护者 JimLiu |
+| [Guizang PPT Skill](https://github.com/op7418/guizang-ppt-skill) | 把文章变成带配图、封面和演讲者模式的网页幻灯片。 | X @op7418 原帖 · 官方维护者 op7418 |
+| [OpenSquilla](https://github.com/opensquilla/opensquilla) | 用本地路由和持久记忆把 Agent 任务分给合适模型。 | X @xiaohu 原帖 · 官方维护者 opensquilla |
+| [LJG Skills](https://github.com/lijigang/ljg-skills) | 把文章、论文、卡片和阅读整理成中文技能集。 | X @lijigang 原帖 · 官方维护者 lijigang |
+| [Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) | 把 Claude Code 或 Codex 接入 Telegram、Discord 和飞书。 | X @op7418 原帖 · 官方维护者 op7418 |
+| [swyxio Skills](https://github.com/swyxio/skills) | 把技术材料、读者变化和视觉制作组织成内容工作流。 | X @swyx 原帖 · 官方维护者 swyxio |
+| [llm-jq](https://github.com/simonw/llm-jq) | 用自然语言生成 jq 查询处理 JSON。 | X @simonw 原帖 · 官方维护者 Simon Willison |
 
-完整中文介绍、安装路径和来源见 [2026-08-29 日报](daily/2026-08-29.md)。结构化数据见 [`data/projects.json`](data/projects.json)。今日十项均已发现并核验，尚未启动完整实验；AI-Trader 是今天唯一排定的实验对象。
+完整核验、来源归因和剔除记录见 [2026-08-30 日报](daily/2026-08-30.md)。结构化数据见 [data/projects.json](data/projects.json)。本批次均为已发现、已核验项目，尚未完成完整实验。
 
 ## 收录标准
 
