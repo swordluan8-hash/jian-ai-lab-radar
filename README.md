@@ -8,20 +8,27 @@
 
 ## 今日发现 · 2026-08-30
 
+今天的正式批次与 Jian AI Lab 网站一致，共 15 个项目。
+
 | 项目 | 一句话看懂 | 今日信号 |
 | --- | --- | --- |
-| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) | 把模型、工具、会话、权限和沙箱组织成插件式 Agent 框架。 | X @Smartpigai 原帖 · 官方维护者 DeepSeek AI |
-| [nanochat](https://github.com/karpathy/nanochat) | 用依赖精简的完整流水线训练和运行 ChatGPT 克隆。 | X @karpathy 原帖 · 官方维护者 Andrej Karpathy |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | 用状态图编排可恢复、有记忆的 Agent 应用。 | X @Smartpigai 原帖 · 官方维护者 LangChain AI |
-| [Baoyu Skills](https://github.com/JimLiu/baoyu-skills) | 把翻译、文章、图片和幻灯片变成可安装技能。 | X @dotey 原帖 · 官方维护者 JimLiu |
-| [Guizang PPT Skill](https://github.com/op7418/guizang-ppt-skill) | 把文章变成带配图、封面和演讲者模式的网页幻灯片。 | X @op7418 原帖 · 官方维护者 op7418 |
-| [OpenSquilla](https://github.com/opensquilla/opensquilla) | 用本地路由和持久记忆把 Agent 任务分给合适模型。 | X @xiaohu 原帖 · 官方维护者 opensquilla |
-| [LJG Skills](https://github.com/lijigang/ljg-skills) | 把文章、论文、卡片和阅读整理成中文技能集。 | X @lijigang 原帖 · 官方维护者 lijigang |
-| [Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) | 把 Claude Code 或 Codex 接入 Telegram、Discord 和飞书。 | X @op7418 原帖 · 官方维护者 op7418 |
-| [swyxio Skills](https://github.com/swyxio/skills) | 把技术材料、读者变化和视觉制作组织成内容工作流。 | X @swyx 原帖 · 官方维护者 swyxio |
-| [llm-jq](https://github.com/simonw/llm-jq) | 用自然语言生成 jq 查询处理 JSON。 | X @simonw 原帖 · 官方维护者 Simon Willison |
+| [AI 赚钱方法手册](https://github.com/XiaomingX/ai-money-maker-handbook) | 汇集 AI 图片、视频、写作、自媒体、出海和创业案例，帮助普通人先比较副业方向。 | X 项目介绍 |
+| [Kid Papercraft](https://github.com/kaomei/kid-papercraft) | 根据姓名、年龄和生日主题生成折纸定格风格祝福视频；商业制作需替换自带角色素材。 | X 项目演示 |
+| [SimpleCard](https://github.com/runtimepoet/simplecard) | 数字商品成交后自动处理库存、收款和卡密交付。 | X 自动发卡介绍 |
+| [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 把背景图和样式做成可安装、切换和交付的 Codex 桌面主题包。 | X 数字商品案例 |
+| [rembg](https://github.com/danielgatis/rembg) | 批量去除商品照片背景，输出透明图片供主图、详情页和视频继续制作。 | X 商品图片工具合集 |
+| [Postiz](https://github.com/gitroomhq/postiz-app) | 统一管理三十多个社交平台的排期、协作、发布和分析。 | X 项目介绍 |
+| [OpenOutreach](https://github.com/eracle/OpenOutreach) | 按产品和目标客户画像搜索、评估潜在客户，并导出匹配理由。 | X 中文项目介绍 |
+| [eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 为 Amazon、Shopify、Etsy、TikTok Shop 和 eBay 卖家提供选品、定价、上架和经营分析方法。 | 维护团队近期 X 动态 |
+| [OpenAdKit](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool) | 从网站提取品牌信息，为多个广告平台生成广告、活动方案和优化建议。 | GitHub 官方仓库 |
+| [Open AI UGC](https://github.com/Anil-matcha/Open-AI-UGC) | 用虚拟演员、口播、字幕和视频模型制作商品 UGC 广告。 | GitHub 官方仓库 |
+| [OpenTalking](https://github.com/datascale-ai/opentalking) | 把数字人、声音、知识库、记忆和实时对话接成直播讲解系统。 | X 项目介绍 |
+| [OpenShorts](https://github.com/mutonby/openshorts) | 把长视频切片、竖屏重构、字幕、AI 演员商品短片和多平台发布放进同一工作台。 | X 中文项目介绍 |
+| [Baoyu Skills](https://github.com/JimLiu/baoyu-skills) | 把翻译、文章、图片和幻灯片制作拆成可安装、可重复调用的内容生产技能。 | X 原帖 |
+| [B2B SDR Agent Template](https://github.com/iPythoning/b2b-sdr-agent-template) | 把线索进入、资格判断、消息跟进、报价提醒和 CRM 更新拆成持续运行的外贸销售阶段。 | GitHub 官方仓库 |
+| [LJG Skills](https://github.com/lijigang/ljg-skills) | 把文章、论文、卡片和阅读整理做成中文 Agent Skills，建立可重复的知识内容流程。 | X 原帖 |
 
-完整核验、来源归因和剔除记录见 [2026-08-30 日报](daily/2026-08-30.md)。结构化数据见 [data/projects.json](data/projects.json)。本批次均为已发现、已核验项目，尚未完成完整实验。
+完整核验、来源和淘汰记录见 [2026-08-30 日报](daily/2026-08-30.md)。结构化数据见 [data/projects.json](data/projects.json)。
 
 ## 收录标准
 
