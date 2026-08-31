@@ -6,29 +6,30 @@
 
 [剑的 AI 实验室](https://jianailab.com) · [项目库](https://jianailab.com/library) · [竞技场](https://jianailab.com/community) · [English](README_EN.md)
 
-## 今日发现 · 2026-08-30
+## 今日发现 · 2026-08-31
 
-今天的正式批次与 Jian AI Lab 网站一致，共 15 个项目。
+今天收录 10 个赚钱方向项目；Best Skill Radar 经用户明确决定本日免除。当天只执行一个真实实验：[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)。
 
-| 项目 | 一句话看懂 | 今日信号 |
+| 项目 | 一句话看懂 | 今日状态 |
 | --- | --- | --- |
-| [AI 赚钱方法手册](https://github.com/XiaomingX/ai-money-maker-handbook) | 汇集 AI 图片、视频、写作、自媒体、出海和创业案例，帮助普通人先比较副业方向。 | X 项目介绍 |
-| [Kid Papercraft](https://github.com/kaomei/kid-papercraft) | 根据姓名、年龄和生日主题生成折纸定格风格祝福视频；商业制作需替换自带角色素材。 | X 项目演示 |
-| [SimpleCard](https://github.com/runtimepoet/simplecard) | 数字商品成交后自动处理库存、收款和卡密交付。 | X 自动发卡介绍 |
-| [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 把背景图和样式做成可安装、切换和交付的 Codex 桌面主题包。 | X 数字商品案例 |
-| [rembg](https://github.com/danielgatis/rembg) | 批量去除商品照片背景，输出透明图片供主图、详情页和视频继续制作。 | X 商品图片工具合集 |
-| [Postiz](https://github.com/gitroomhq/postiz-app) | 统一管理三十多个社交平台的排期、协作、发布和分析。 | X 项目介绍 |
-| [OpenOutreach](https://github.com/eracle/OpenOutreach) | 按产品和目标客户画像搜索、评估潜在客户，并导出匹配理由。 | X 中文项目介绍 |
-| [eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) | 为 Amazon、Shopify、Etsy、TikTok Shop 和 eBay 卖家提供选品、定价、上架和经营分析方法。 | 维护团队近期 X 动态 |
-| [OpenAdKit](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool) | 从网站提取品牌信息，为多个广告平台生成广告、活动方案和优化建议。 | GitHub 官方仓库 |
-| [Open AI UGC](https://github.com/Anil-matcha/Open-AI-UGC) | 用虚拟演员、口播、字幕和视频模型制作商品 UGC 广告。 | GitHub 官方仓库 |
-| [OpenTalking](https://github.com/datascale-ai/opentalking) | 把数字人、声音、知识库、记忆和实时对话接成直播讲解系统。 | X 项目介绍 |
-| [OpenShorts](https://github.com/mutonby/openshorts) | 把长视频切片、竖屏重构、字幕、AI 演员商品短片和多平台发布放进同一工作台。 | X 中文项目介绍 |
-| [Baoyu Skills](https://github.com/JimLiu/baoyu-skills) | 把翻译、文章、图片和幻灯片制作拆成可安装、可重复调用的内容生产技能。 | X 原帖 |
-| [B2B SDR Agent Template](https://github.com/iPythoning/b2b-sdr-agent-template) | 把线索进入、资格判断、消息跟进、报价提醒和 CRM 更新拆成持续运行的外贸销售阶段。 | GitHub 官方仓库 |
-| [LJG Skills](https://github.com/lijigang/ljg-skills) | 把文章、论文、卡片和阅读整理做成中文 Agent Skills，建立可重复的知识内容流程。 | X 原帖 |
+| [TikTok Aura Farming](https://github.com/theneurallab/tiktok-aura-farming) | 复现 TikTok Aura Farming 视频制作代码。 | 已收录，未实验 |
+| [Sorftime Seller Agent](https://github.com/DannylydST/sorftime-seller-agent) | 为六个平台提供选品和市场研究。 | 已收录，未实验 |
+| [Amazon Skills](https://github.com/nexscope-ai/Amazon-Skills) | 为 Amazon 卖家提供关键词、竞品和 Listing 审核 Skills。 | 已收录，未实验 |
+| [Amazon Catalog CLI](https://github.com/BWB03/amazon-catalog-cli) | 让 Agent 查询 Amazon Category Listing Reports。 | 已收录，未实验 |
+| [Lingxing MCP](https://github.com/zach22-1999/lingxing-mcp) | 只读接入领星 ERP 的经营数据。 | 已收录，未实验 |
+| [TikTok Viral Factory](https://github.com/Vanszs/tiktok-viral-factory) | 多 Agent 制作 TikTok Shop 联盟视频，依赖外部媒体服务。 | 已收录，未实验 |
+| [Pexo Skills](https://github.com/pexoai/pexo-skills) | 图片、音频与视频内容生产 Skills。 | 已收录，未实验 |
+| [Atlas Marketing Studio](https://github.com/AtlasCloudAI/atlas-marketing-studio) | 自托管电商 AI 视频广告工作台。 | 已收录，未实验 |
+| [Video Ad Generator](https://github.com/creatify-ai/video-ad-generator) | 从商品链接生成视频广告创意框架。 | 已收录，未实验 |
+| [Ad Creative Evaluator](https://github.com/creatify-ai/ad-creative-evaluator) | 用八维规则和专家视角评估广告创意。 | 已收录，未实验 |
 
-完整核验、来源和淘汰记录见 [2026-08-30 日报](daily/2026-08-30.md)。结构化数据见 [data/projects.json](data/projects.json)。
+### 今日唯一实验
+
+[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)：首轮安装失败后修复；完整测试 7039 通过、45 失败、79 跳过；生产构建通过；真实导出 4 页、79,985 字节可编辑中文 PPTX。多智能体生成、TTS、视频和实时课堂没有测试。
+
+- [2026-08-31 完整日报](daily/2026-08-31.md)
+- [OpenMAIC YouTube 十五类画面制作包](production/2026-08-31-openmaic-youtube-production-pack.md)
+- [结构化项目数据](data/projects.json)
 
 ## 收录标准
 
