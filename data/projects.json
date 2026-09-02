@@ -943,5 +943,20 @@
     "language": "Markdown",
     "license": "仓库未显示许可证声明",
     "checked_at": "2026-09-02"
+  },
+  {
+    "slug": "wechat-radar",
+    "name": "WeChat Radar",
+    "repo": "huangserva/wechat-radar",
+    "github_url": "https://github.com/huangserva/wechat-radar",
+    "website_url": "https://jianailab.com/projects/wechat-radar",
+    "category": "Agent、自动化、数据与本地部署",
+    "summary_zh": "把本地微信聊天数据整理成可检索、可分析的情报看板，集中查看群聊消息、链接、话题、待办和知识。",
+    "source_url": "https://github.com/huangserva/wechat-radar",
+    "signal": "GitHub 原始发现",
+    "stars_snapshot": 140,
+    "language": "TypeScript",
+    "license": "MIT",
+    "checked_at": "2026-09-02"
   }
 ]
