@@ -973,5 +973,35 @@
     "language": "Python",
     "license": "MIT",
     "checked_at": "2026-09-02"
+  },
+  {
+    "slug": "hermes-pixel-office",
+    "name": "Hermes Pixel Office",
+    "repo": "teknium1/hermes-pixel-office",
+    "github_url": "https://github.com/teknium1/hermes-pixel-office",
+    "website_url": "https://jianailab.com/projects/hermes-pixel-office",
+    "category": "Agent、自动化、数据与本地部署",
+    "summary_zh": "把 Hermes Agent 的每个会话和子 Agent 变成可视化的像素办公室，实时显示写文件、读代码、浏览、终端、委派和审批状态。",
+    "source_url": "https://github.com/teknium1/hermes-pixel-office",
+    "signal": "GitHub 原始发现（用户提供项目介绍）",
+    "stars_snapshot": 78,
+    "language": "Python",
+    "license": "MIT",
+    "checked_at": "2026-09-02"
+  },
+  {
+    "slug": "babysitter",
+    "name": "Babysitter",
+    "repo": "a5c-ai/babysitter",
+    "github_url": "https://github.com/a5c-ai/babysitter",
+    "website_url": "https://jianailab.com/projects/babysitter",
+    "category": "Agent、自动化、数据与本地部署",
+    "summary_zh": "用代码定义 Agent 工作流，把质量门、人工审批、断点恢复和不可篡改日志接进多种 AI 编程工具。",
+    "source_url": "https://github.com/a5c-ai/babysitter",
+    "signal": "GitHub 原始发现（用户提供项目介绍）",
+    "stars_snapshot": 1800,
+    "language": "TypeScript",
+    "license": "MIT",
+    "checked_at": "2026-09-02"
   }
 ]
