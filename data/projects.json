@@ -898,5 +898,50 @@
     "language": "多语言/工具合集",
     "license": "仓库声明：可分发但勿做商业使用；未见根目录许可证",
     "checked_at": "2026-09-02"
+  },
+  {
+    "slug": "curl-impersonate",
+    "name": "curl-impersonate",
+    "repo": "lwthiker/curl-impersonate",
+    "github_url": "https://github.com/lwthiker/curl-impersonate",
+    "website_url": "https://jianailab.com/projects/curl-impersonate",
+    "category": "Agent、自动化、数据与本地部署",
+    "summary_zh": "让命令行 curl 和 libcurl 的 TLS、HTTP/2 握手接近 Chrome、Firefox、Safari 与 Edge，用于需要浏览器网络特征的请求。",
+    "source_url": "https://github.com/lwthiker/curl-impersonate",
+    "signal": "GitHub 原始发现",
+    "stars_snapshot": 6900,
+    "language": "C",
+    "license": "MIT",
+    "checked_at": "2026-09-02"
+  },
+  {
+    "slug": "autoscraper",
+    "name": "AutoScraper",
+    "repo": "alirezamika/autoscraper",
+    "github_url": "https://github.com/alirezamika/autoscraper",
+    "website_url": "https://jianailab.com/projects/autoscraper",
+    "category": "Agent、自动化、数据与本地部署",
+    "summary_zh": "给网页地址和一个目标数据样本，它会自动学习页面结构，再从同类网页提取相似或指定字段。",
+    "source_url": "https://github.com/alirezamika/autoscraper",
+    "signal": "GitHub 原始发现",
+    "stars_snapshot": 7900,
+    "language": "Python",
+    "license": "MIT",
+    "checked_at": "2026-09-02"
+  },
+  {
+    "slug": "blotato-skills",
+    "name": "Blotato Skills",
+    "repo": "Blotato-Inc/blotato-skills",
+    "github_url": "https://github.com/Blotato-Inc/blotato-skills",
+    "website_url": "https://jianailab.com/projects/blotato-skills",
+    "category": "内容创作与自媒体",
+    "summary_zh": "把品牌定位、选题、写作、开头设计、评分修改、内容改编、无脸视频生成和社交平台排程串成一套 Claude Skills 工作流。",
+    "source_url": "https://github.com/Blotato-Inc/blotato-skills",
+    "signal": "GitHub 原始发现（用户提供项目介绍）",
+    "stars_snapshot": 132,
+    "language": "Markdown",
+    "license": "仓库未显示许可证声明",
+    "checked_at": "2026-09-02"
   }
 ]
