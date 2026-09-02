@@ -958,5 +958,20 @@
     "language": "TypeScript",
     "license": "MIT",
     "checked_at": "2026-09-02"
+  },
+  {
+    "slug": "langflow",
+    "name": "Langflow",
+    "repo": "langflow-ai/langflow",
+    "github_url": "https://github.com/langflow-ai/langflow",
+    "website_url": "https://jianailab.com/projects/langflow",
+    "category": "Agent、自动化、数据与本地部署",
+    "summary_zh": "用可视化拖拽把模型、组件、RAG、工具和多 Agent 流程接起来，并可直接部署成 API 或 MCP 服务。",
+    "source_url": "https://github.com/langflow-ai/langflow",
+    "signal": "GitHub 原始发现（用户提供项目介绍）",
+    "stars_snapshot": 150400,
+    "language": "Python",
+    "license": "MIT",
+    "checked_at": "2026-09-02"
   }
 ]
