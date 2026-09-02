@@ -883,5 +883,20 @@
     "github_url": "https://github.com/THU-MAIC/OpenMAIC",
     "website_url": "https://jianailab.com/projects/openmaic",
     "checked_at": "2026-08-31"
+  },
+  {
+    "slug": "fanqiang",
+    "name": "翻墙 · 科学上网项目库",
+    "repo": "bannedbook/fanqiang",
+    "github_url": "https://github.com/bannedbook/fanqiang",
+    "website_url": "https://jianailab.com/projects/fanqiang",
+    "category": "Agent、自动化、数据与本地部署",
+    "summary_zh": "汇总 Windows、macOS、Linux、手机、路由器与游戏机的网络访问工具、配置教程和排错资料。",
+    "source_url": "https://github.com/bannedbook/fanqiang",
+    "signal": "GitHub 原始发现",
+    "stars_snapshot": 51400,
+    "language": "多语言/工具合集",
+    "license": "仓库声明：可分发但勿做商业使用；未见根目录许可证",
+    "checked_at": "2026-09-02"
   }
 ]
